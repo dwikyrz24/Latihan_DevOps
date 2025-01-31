@@ -1,2 +1,2 @@
 ini adalah file 1
-git revert 1
+compare file 1
